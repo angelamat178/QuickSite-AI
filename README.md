@@ -281,8 +281,8 @@ Las claves y datos privados van en un archivo `.env` local que **nunca se sube a
 
 ### Fase 0 — Preparación (Semana 1 · hasta el 30 de octubre)
 
-- [ ] Crear el repositorio privado en GitHub e invitar a Ismael — **Ángel**
-- [ ] Instalar Git, VS Code y Python 3.14.7 en ambos equipos — **Ambos**
+- [X] Crear el repositorio privado en GitHub e invitar a Ismael — **Ángel**
+- [X] Instalar Git, VS Code y Python 3.14.7 en ambos equipos — **Ambos**
 - [ ] Configurar la identidad de Git (`user.name`, `user.email`) — **Ambos**
 - [ ] Primer ciclo completo de Git: rama → commit → PR → revisión → merge — **Ambos**
 - [ ] Subir `.gitignore` (con `.env`, `.venv/`, `data/`), `.env.example` y este README — **Ángel**
