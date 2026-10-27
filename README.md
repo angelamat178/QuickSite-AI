@@ -145,7 +145,7 @@ La parte gráfica es lo primero que se desarrolla. Se construye con **datos simu
 | Persistencia | Archivos para fichas y SQLite para el historial (previsto) | |
 | CMS | WordPress + Elementor (versión base) + Rank Math SEO | API REST con contraseña de aplicación |
 | Imágenes | Banco gratuito (Pexels, previsto) | Siempre con crédito del autor |
-| Control de versiones | Git + GitHub (repositorio privado) | |
+| Control de versiones | Git + GitHub (repositorio publico) | |
 | Sistema | Windows | |
 
 > **TODO:** confirmar que Streamlit y el resto de dependencias instalan correctamente con Python 3.14.7.
