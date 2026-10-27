@@ -283,7 +283,7 @@ Las claves y datos privados van en un archivo `.env` local que **nunca se sube a
 
 - [X] Crear el repositorio privado en GitHub e invitar a Ismael — **Ángel**
 - [X] Instalar Git, VS Code y Python 3.14.7 en ambos equipos — **Ambos**
-- [ ] Configurar la identidad de Git (`user.name`, `user.email`) — **Ambos**
+- [X] Configurar la identidad de Git (`user.name`, `user.email`) — **Ambos**
 - [ ] Primer ciclo completo de Git: rama → commit → PR → revisión → merge — **Ambos**
 - [ ] Subir `.gitignore` (con `.env`, `.venv/`, `data/`), `.env.example` y este README — **Ángel**
 - [ ] Comprobar que Streamlit y las librerías previstas instalan bien con Python 3.14.7 (si no, usar 3.13) — **Ismael**
