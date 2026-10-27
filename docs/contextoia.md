@@ -2,6 +2,7 @@
 
 **QuickSite** es una aplicación interna que genera **entradas de blog en castellano** para WordPress a partir de una petición en lenguaje natural (palabras clave, tema, tono, extras) y las deja en WordPress como **borrador**, listas para revisión humana. Nunca publica.
 
+**Entra dentro del repositorio para más información**
 **Repositorio:** https://github.com/angelamat178/QuickSite-AI
 **Equipo:** Ángel e Ismael · **Estado:** en desarrollo (Fase 0, preparación) · **Objetivo de la v1:** antes de diciembre de 2026
 
