@@ -3,3 +3,5 @@ Claude-Bases de proyecto con Ollama y WordPress: https://claude.ai/share/dfff3a4
 ChatGpt-Interfaz y esquemas: https://chatgpt.com/share/6ae092a7-2554-83ed-9039-b4fdec53a8b1
 
 ChatGpt-Esquemas: https://chatgpt.com/share/6ae095f4-28a4-83ed-b6ed-dfe89bef0aed
+
+ChatGpt- Interfaz Gráfica: https://claude.ai/share/b35048dd-b4cd-470f-a2e6-24499c4aedb5
