@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Guía de WordPress para principiantes",
+    "url": "https://ejemplo.com/guia-wordpress/",
+    "keywords": [
+      "wordpress",
+      "guía wordpress",
+      "principiantes"
+    ]
+  },
+  {
+    "title": "Cómo mejorar el SEO técnico",
+    "url": "https://ejemplo.com/seo-tecnico/",
+    "keywords": [
+      "seo técnico",
+      "rendimiento",
+      "indexación"
+    ]
+  },
+  {
+    "title": "Plugins esenciales para pequeñas empresas",
+    "url": "https://ejemplo.com/plugins-wordpress/",
+    "keywords": [
+      "plugins wordpress",
+      "pequeñas empresas",
+      "seguridad"
+    ]
+  }
+]

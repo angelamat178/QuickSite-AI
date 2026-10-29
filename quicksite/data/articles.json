@@ -1,0 +1,38 @@
+[
+  {
+    "id": "demo1",
+    "title": "Cómo crear una página web rápida y profesional con WordPress",
+    "keyword": "crear página web WordPress",
+    "meta": "Planifica y crea una web con WordPress con una estructura clara y consejos prácticos.",
+    "category": "Tecnología",
+    "template_id": "t_guide",
+    "status": "Borrador local",
+    "created": "2026-10-29 14:46",
+    "blocks": [
+      {
+        "type": "intro",
+        "text": "Crear una web útil empieza por definir qué necesita conseguir el proyecto y quién la va a utilizar. WordPress permite construir distintos tipos de sitios, pero el resultado depende de las decisiones de estructura, contenido y mantenimiento."
+      },
+      {
+        "type": "heading",
+        "text": "Define el objetivo y la estructura"
+      },
+      {
+        "type": "paragraph",
+        "text": "Antes de elegir un diseño, concreta el público, las páginas necesarias y la acción principal que quieres facilitar."
+      },
+      {
+        "type": "heading",
+        "text": "Prepara la instalación"
+      },
+      {
+        "type": "list",
+        "text": "Elegir un alojamiento adecuado.\nConfigurar el dominio.\nInstalar WordPress y mantenerlo actualizado.\nSeleccionar un tema accesible."
+      },
+      {
+        "type": "conclusion",
+        "text": "Empieza por una estructura pequeña, revisa el contenido y amplía la web cuando exista una necesidad concreta."
+      }
+    ]
+  }
+]

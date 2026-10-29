@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c1",
+    "name": "Datos fijos",
+    "category": "General",
+    "content": "Empresa de contenido digital. Público objetivo: pymes y profesionales del marketing. No inventar precios, plazos, estadísticas ni datos de empresa.",
+    "active": true,
+    "updated": "2026-10-29 14:46"
+  },
+  {
+    "id": "c2",
+    "name": "Estilo",
+    "category": "Estilo",
+    "content": "Tono cercano, claro y profesional. Evitar relleno, frases genéricas y repeticiones. Usar ejemplos concretos y subtítulos descriptivos.",
+    "active": true,
+    "updated": "2026-10-29 14:46"
+  },
+  {
+    "id": "c3",
+    "name": "Reglas SEO",
+    "category": "SEO",
+    "content": "Priorizar la intención de búsqueda y la utilidad para la persona. Usar encabezados descriptivos y enlaces internos relevantes; no forzar palabras clave.",
+    "active": true,
+    "updated": "2026-10-29 14:46"
+  }
+]

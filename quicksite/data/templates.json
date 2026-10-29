@@ -1,0 +1,138 @@
+[
+  {
+    "id": "t_guide",
+    "name": "Guía práctica",
+    "category": "Tutorial",
+    "description": "Proceso paso a paso con recomendaciones accionables.",
+    "layout": "guide",
+    "prompt": "Explica el proceso paso a paso. Incluye requisitos, errores habituales y una lista final.",
+    "blocks": [
+      [
+        "intro",
+        "Introducción"
+      ],
+      [
+        "heading",
+        "Antes de empezar"
+      ],
+      [
+        "paragraph",
+        "Contexto"
+      ],
+      [
+        "heading",
+        "Pasos principales"
+      ],
+      [
+        "list",
+        "Pasos accionables"
+      ],
+      [
+        "conclusion",
+        "Conclusión"
+      ]
+    ]
+  },
+  {
+    "id": "t_compare",
+    "name": "Comparativa",
+    "category": "Comparativa",
+    "description": "Compara alternativas con criterios transparentes.",
+    "layout": "comparison",
+    "prompt": "Compara alternativas con criterios explícitos. No inventes precios ni pruebas.",
+    "blocks": [
+      [
+        "intro",
+        "Contexto y criterios"
+      ],
+      [
+        "heading",
+        "Opciones"
+      ],
+      [
+        "list",
+        "Ventajas y límites"
+      ],
+      [
+        "heading",
+        "Cómo elegir"
+      ],
+      [
+        "paragraph",
+        "Criterios de decisión"
+      ],
+      [
+        "conclusion",
+        "Recomendación según el caso"
+      ]
+    ]
+  },
+  {
+    "id": "t_faq",
+    "name": "Preguntas frecuentes",
+    "category": "FAQ",
+    "description": "Respuestas concretas a preguntas de usuarios.",
+    "layout": "faq",
+    "prompt": "Responde preguntas específicas sin repetir una guía ya publicada.",
+    "blocks": [
+      [
+        "intro",
+        "Respuesta breve"
+      ],
+      [
+        "heading",
+        "Preguntas frecuentes"
+      ],
+      [
+        "faq",
+        "Pregunta y respuesta"
+      ],
+      [
+        "faq",
+        "Otra pregunta y respuesta"
+      ],
+      [
+        "conclusion",
+        "Resumen"
+      ]
+    ]
+  },
+  {
+    "id": "t_case",
+    "name": "Caso práctico",
+    "category": "Caso práctico",
+    "description": "Escenario, decisiones, aprendizajes y límites.",
+    "layout": "case",
+    "prompt": "Usa un escenario concreto. No inventes testimonios ni resultados reales; indica si es hipotético.",
+    "blocks": [
+      [
+        "intro",
+        "Escenario y reto"
+      ],
+      [
+        "heading",
+        "Situación inicial"
+      ],
+      [
+        "paragraph",
+        "Contexto"
+      ],
+      [
+        "heading",
+        "Decisiones"
+      ],
+      [
+        "list",
+        "Proceso"
+      ],
+      [
+        "heading",
+        "Aprendizajes"
+      ],
+      [
+        "conclusion",
+        "Conclusión"
+      ]
+    ]
+  }
+]
